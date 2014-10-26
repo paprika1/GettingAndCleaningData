@@ -35,5 +35,5 @@ Files are located in the GettingAndCleaningData GitHub repository indicated abov
 
 Successful execution of the 'Running the Scripts' section above will result in the production of the following:
 
-1. The tidy data set named
+1. The tidy data set named SamsungGalaxy5_TidyData.txt
 2. The Codebook.md file
